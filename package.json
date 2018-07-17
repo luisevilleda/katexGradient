@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "word-wrap": "^1.2.3"
+  },
+  "name": "latex",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Luis Villeda <luisevilleda@gmail.com>",
+  "license": "MIT"
+}
